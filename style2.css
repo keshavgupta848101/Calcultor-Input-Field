@@ -1,0 +1,51 @@
+body { 
+    background-color: #88304e;
+} 
+
+h1 { 
+    color: rgb(218, 216, 216); 
+    text-align: center;
+} 
+ul { 
+    color: rgb(218, 216, 216); 
+
+} 
+ .main
+ {
+width: 70vw;
+height: 40vh;
+margin: 170px auto;
+
+display: flex;
+justify-content: flex-end;
+
+ }	
+
+ .left
+ {
+     background-color: #e23e57;
+     width: 50%;
+     height: 70%;
+ }
+ .right{
+     
+    background-color: #522546;
+     width: 50%;
+     height: 70%;
+    
+ }
+
+ #result{
+     margin-top: 30px;
+ }
+
+ .result{
+     border: 1px solid wheat;
+
+
+ }
+
+ input{
+
+    margin-left: 33%;
+ }
